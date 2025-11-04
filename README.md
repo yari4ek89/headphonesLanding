@@ -51,4 +51,4 @@ Feel free to reach out if you have questions or want to collaborate!
 
 ## Demo preview
 
-![Site preview](https://yari4ek89.github.io/headphonesLanding/)
+[Site preview](https://yari4ek89.github.io/headphonesLanding/)
