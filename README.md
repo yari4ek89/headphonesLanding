@@ -46,3 +46,9 @@ The original Figma design was desktop-only. However, base responsive behaviors w
 ## Contact
 
 Feel free to reach out if you have questions or want to collaborate!
+
+---
+
+## Demo preview
+
+![Site preview](https://yari4ek89.github.io/headphonesLanding/)
